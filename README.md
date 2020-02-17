@@ -11,23 +11,26 @@ Se debe tener conocimientos claros de la programación Orientada a objetos.
 
 ## Descripción en Latex ##
 En el siguiente vinculo encontrara el respectivo PDF de la descripción del diseño desarrollado en LaTeX.
-[Click](https://github.com/JonatanGonzalez09/Clientes-Servicios-AREP/blob/master/Taller%203.pdf)
+[Click](https://github.com/JonatanGonzalez09/Clientes-Servicios-AREP/blob/master/resources/Taller%203.pdf)
 
 ## Ejercicio 1 ##
-Se consulto la siguiente URL y el resultado fue el siguiente:
-![](IMAGEN)
+Se consulto la siguiente URL ```https://pegaso.escuelaing.edu.co/index.html?0=10&a=15#AREP``` y el resultado fue el siguiente:
+
+![](https://github.com/JonatanGonzalez09/Clientes-Servicios-AREP/blob/master/resources/ejercicio1.jpg)
 
 ## Ejercicio 2 ##
-Se consulto una direccion de la escuela y el resultado se puede ver en [aqui](https://github.com/JonatanGonzalez09/Clientes-Servicios-AREP/blob/master/resultado.html)
+Se consulto una direccion de la escuela y el resultado se puede ver en [aqui](https://github.com/JonatanGonzalez09/Clientes-Servicios-AREP/blob/master/resources/resultado.html)
 
 ## Ejercicio 3 ##
-Se ejecuta primero la Clase EchoServer y despues ejecutamos el EchoCliente, el resultado es el siguiente:
+Se ejecuta primero la Clase **EchoServer** y despues ejecutamos el **EchoCliente**, el resultado es el siguiente:
 
 **Cliente:**
-![](IMAGEN)
+
+![](https://github.com/JonatanGonzalez09/Clientes-Servicios-AREP/blob/master/resources/Cliente.jpg)
 
 **Servidor:**
-![](IMAGEN)
+
+![](https://github.com/JonatanGonzalez09/Clientes-Servicios-AREP/blob/master/resources/Servidor.jpg)
 
 ## Reto 1 ##
 Se hace el recurso a una imagen y un html.
