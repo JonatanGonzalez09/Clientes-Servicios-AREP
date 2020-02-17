@@ -34,7 +34,7 @@ Se ejecuta primero la Clase **EchoServer** y despues ejecutamos el **EchoCliente
 
 ## Reto 1 ##
 Se hace el recurso a una imagen y un html.
-El despliegue se puede visualizar en el sighuiente link https://evening-waters-80929.herokuapp.com/webPage
+El despliegue se puede visualizar en el siguiente link:**https://evening-waters-80929.herokuapp.com/webPage**
 
 ## Licencia ##
 Este proyecto cuenta con la licencia [**GNU General Public License v3.0**](https://github.com/JonatanGonzalez09/Clientes-Servicios-AREP/blob/master/LICENSE)
