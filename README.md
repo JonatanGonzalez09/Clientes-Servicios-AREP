@@ -13,6 +13,22 @@ Se debe tener conocimientos claros de la programación Orientada a objetos.
 En el siguiente vinculo encontrara el respectivo PDF de la descripción del diseño desarrollado en LaTeX.
 [Click](https://github.com/JonatanGonzalez09/Clientes-Servicios-AREP/blob/master/resources/Taller%203.pdf)
 
+## Documentación Javadoc ##
+Para generar la documentacion javadoc, fue necesario ejecutar los siguientes comandos:
+
+```
+- mvn javadoc:javadoc
+- mvn javadoc:jar
+- mvn javadoc:aggregate
+- mvn javadoc:aggregate-jar
+- mvn javadoc:test-javadoc
+- mvn javadoc:test-jar
+- mvn javadoc:test-aggregate
+- mvn javadoc:test-aggregate-jar
+```
+La ruta donde encontrara la documentacion es la siguiente: **\target\apidocs\edu\escuelaing\arep** dependiendo de la clase que quiera revisar ya sea _Ejercicio1_, _Ejercicio2_ o _Reto1_
+
+
 ## Ejercicio 1 ##
 Se consulto la siguiente URL ```https://pegaso.escuelaing.edu.co/index.html?0=10&a=15#AREP``` y el resultado fue el siguiente:
 
